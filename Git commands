@@ -1,0 +1,4 @@
+change git repo to use passwaord less as already added ssh key.
+
+git remote set-url origin git@github.com:andyal230/shell.git
+
